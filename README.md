@@ -14,6 +14,12 @@
 
 * We will evaluate a variety of subcategories within the data set during our research, including Region (in terms of localities), Date (in terms of time), and Age and Gender (in reference to person’s demographic)
 
+### Requirements
+
+1. Scripting: **Python Scripting**
+2. Libraries: **pandas, matplotlib**
+3. Notebook: **Jupyter Notebook**
+
 ## Objectives
 
 **Understand Data**
