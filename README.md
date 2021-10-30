@@ -60,7 +60,7 @@
 
 **Manner of Collision Vs Number of Accidents**
 
-"Manner of Collision" describes the orientation of two motor vehicles in-transport when they are involved in the “First Harmful Event” of a collision crash
+* "Manner of Collision" describes the orientation of two motor vehicles in-transport when they are involved in the “First Harmful Event” of a collision crash
 
 ![Manner of Collision Vs Number of Accidents](/images/manner_coll.png)
 
@@ -76,6 +76,8 @@ Out of the top 15- Most accidents happen Front-to-Rear in the South
 * This could be caused to congestion on highways in highly populated areas.
 * Also, studies show that the south tends to be more behind in infrastructure and development  than other areas of the US
 
+[Location Analysis](/Ra_Crash_Dummy_Analysis/Final_Accident_Analysis2018.ipynb)
+
 ### Persons Data Frame
 
 ![Persons Data Frame](/images/male_female.png)
@@ -87,6 +89,8 @@ Out of the top 15- Most accidents happen Front-to-Rear in the South
 * Male adults aged 50 and up tend to have much more total accidents than both the <18 and 19-29 age groups combined.
 * Surprisingly, the <18 age group has significantly less accidents than every other age group, which could be caused by teens delaying getting a driver license or a stricter rules imposed by local authorities.
 * Although many accidents occur each year, over half of them, regardless of gender or age, result in No Injury.
+
+[Person Analysis](/AutoInsuranceClaims.ipynb)
 
 ### Time Data Frame
 
@@ -141,7 +145,11 @@ Out of the top 15- Most accidents happen Front-to-Rear in the South
 * Potholes can cause drivers to lose control of their vehicles or damage the tires on their automobiles.
 * It is exceedingly dangerous for drivers to run red lights.
 
+[Time Analysis](/Crash_TimeAnalysis/main.ipynb)
 
+### Final Presentation
+
+[Presentation](/Crash_Dummies.pptx)
 
 
 
